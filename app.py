@@ -9,6 +9,7 @@ from sklearn.preprocessing import StandardScaler
 from scipy import stats
 
 # Set seed untuk reproducibility
+#nopel baik hati
 np.random.seed(42)
 
 st.title("Analisis dan Prediksi Reach untuk Perusahaan")
